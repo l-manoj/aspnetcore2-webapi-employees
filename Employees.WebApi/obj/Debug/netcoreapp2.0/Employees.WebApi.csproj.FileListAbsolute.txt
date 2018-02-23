@@ -1,0 +1,10 @@
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/bin/Debug/netcoreapp2.0/Employees.WebApi.deps.json
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/bin/Debug/netcoreapp2.0/Employees.WebApi.runtimeconfig.json
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/bin/Debug/netcoreapp2.0/Employees.WebApi.runtimeconfig.dev.json
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/bin/Debug/netcoreapp2.0/Employees.WebApi.dll
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/bin/Debug/netcoreapp2.0/Employees.WebApi.pdb
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/obj/Debug/netcoreapp2.0/Employees.WebApi.csproj.CoreCompileInputs.cache
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/obj/Debug/netcoreapp2.0/Employees.WebApi.AssemblyInfoInputs.cache
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/obj/Debug/netcoreapp2.0/Employees.WebApi.AssemblyInfo.cs
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/obj/Debug/netcoreapp2.0/Employees.WebApi.dll
+/Users/laxmimanojkumarpoonati/Projects/Employees.WebApi/obj/Debug/netcoreapp2.0/Employees.WebApi.pdb
